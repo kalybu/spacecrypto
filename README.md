@@ -7,7 +7,7 @@
 Este é um projeto de código aberto inspirado no bombcrypto-bot que foi um bot de clique automático de sucesso que me ajudou muito.
 Para manter as melhorias e este bot de clique automático grátis, por favor me ajude com qualquer valor, divirta-se :)
 
-- Metamask wallet (BNB/SPG/SPE/BUSD/BCOIN):  "0xD54b24362B88dFE0FAFCBe860fe3ad86334Ff3aC"
+# Metamask wallet (BNB/SPG/SPE/BUSD/BCOIN):  "0xD54b24362B88dFE0FAFCBe860fe3ad86334Ff3aC"
 
 # Novos updates 
 
