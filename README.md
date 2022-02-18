@@ -16,7 +16,9 @@
 
 - Correções de bugs 
 ---
-INSTALANDO O BOT;
+
+# Instalando o bot;
+
 1 - No disco local C:// crie uma pasta chamada space.
 2 - Cole os arquivos lá  
 3 - Acesse o CMD e execute os seguintes comandos;
