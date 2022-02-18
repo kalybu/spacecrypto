@@ -52,13 +52,3 @@ Nós responsabilizamos por eventuais penalidades por quem não usar o bot de aut
 - PYTHON **3+**
   </br>
 
-
-## How to run
-
-### Install dependencies
-
-In order for you to run, you need to install the dependencies in advance. 
-
-Download [python site](https://www.python.org/downloads/) 
-
-
