@@ -4,6 +4,11 @@
 # Ajude a equipe que trabalhou neste bot para você poder descansar sem pagar mensalidade mensalidade, doando bnb, busd, bcoin, spg ou spe. 
 # Com seu incentivo podemos seguir melhorando o bot e criando novas ferramentas. 
 
+Este é um projeto de código aberto inspirado no bombcrypto-bot que foi um bot de clique automático de sucesso que me ajudou muito.
+Para manter as melhorias e este bot de clique automático grátis, por favor me ajude com qualquer valor, divirta-se :)
+
+- Metamask wallet (BNB/SPG/SPE/BUSD/BCOIN):  "0xD54b24362B88dFE0FAFCBe860fe3ad86334Ff3aC"
+
 # Novos updates 
 
 - Novo arquivo para configurações (conforme print)
@@ -28,13 +33,6 @@
 5 - Saia da frente do PC e curta sua vida :D
 
 ---
-## About Project
-
-Este é um projeto de código aberto inspirado no bombcrypto-bot que foi um bot de clique automático de sucesso que me ajudou muito.
-Para manter as melhorias e este bot de clique automático grátis, por favor me ajude com qualquer valor, divirta-se :)
-
-- Metamask wallet (BNB/SPG/SPE/BUSD/BCOIN):  "0xD54b24362B88dFE0FAFCBe860fe3ad86334Ff3aC"
-
 
 Fique à vontade para dar seu feedback ;)
 ---
