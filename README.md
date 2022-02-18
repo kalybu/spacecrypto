@@ -24,13 +24,13 @@ Para manter as melhorias e este bot de clique automático grátis, por favor me 
 
 # Instalando o bot
 
-1 - No disco local C:// crie uma pasta chamada space.
-2 - Cole os arquivos lá  
-3 - Acesse o CMD e execute os seguintes comandos;
+- 1 - No disco local C:// crie uma pasta chamada space.
+- 2 - Cole os arquivos lá  
+- 3 - Acesse o CMD e execute os seguintes comandos;
     1 - cd/space
     2 - pip install -r requirements.txt
-4 - python spacecrypto.py (observação execute este comando para iniciar o bot com o link do jogo aberto no navegador)
-5 - Saia da frente do PC e curta sua vida :D
+- 4 - python spacecrypto.py (observação execute este comando para iniciar o bot com o link do jogo aberto no navegador)
+- 5 - Saia da frente do PC e curta sua vida :D
 
 ---
 
