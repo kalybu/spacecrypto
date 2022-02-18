@@ -17,7 +17,7 @@
 - Correções de bugs 
 ---
 
-# Instalando o bot;
+# Instalando o bot
 
 1 - No disco local C:// crie uma pasta chamada space.
 2 - Cole os arquivos lá  
