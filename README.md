@@ -15,7 +15,15 @@
 - Você pode desativar o bot para retirar naves
 
 - Correções de bugs 
-
+---
+INSTALANDO O BOT;
+1 - No disco local C:// crie uma pasta chamada space.
+2 - Cole os arquivos lá  
+3 - Acesse o CMD e execute os seguintes comandos;
+    1 - cd/space
+    2 - pip install -r requirements.txt
+4 - python spacecrypto.py (observação execute este comando para iniciar o bot com o link do jogo aberto no navegador)
+5 - Saia da frente do PC e curta sua vida :D
 
 ---
 ## About Project
@@ -35,9 +43,6 @@ Adicionamos uma pasta (screen_test) com imagens que você pode testar no bot, ba
 ## Aviso
 
 Não nos responsabilizamos por quaisquer penalidades incorridas por quem usa o bot autoclick, use por sua conta e risco.
-
-## Aviso
-
 Nós responsabilizamos por eventuais penalidades por quem não usar o bot de autoclick, use por sua própria conta.
 
 ---
